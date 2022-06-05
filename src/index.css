@@ -105,6 +105,6 @@ form.create-note button {
 /* For small devices */
 @media only screen and (max-width: 600px) {
   form.create-note {
-    width: 70%;
+    width: 350px;
   }
 }
